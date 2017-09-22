@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Screen Time</string>
+    <string name="tile_name">ScreenTime</string>
+    <string name="text_on">on</string>
+    <string name="text_off">off</string>
+</resources>
