@@ -6,8 +6,8 @@
 android ScreenOffTime Quick settings tile（安卓息屏时间快捷设置按钮）  
 
 ---
-[![](https://github.com/gojuukaze/ScreenOffTime/blob/master/pic/1.jpg?raw=true)]() 
-[![](https://github.com/gojuukaze/ScreenOffTime/blob/master/pic/2.jpg?raw=true)]()
+[![](https://github.com/gojuukaze/ScreenOffTime/blob/master/pic/1.png?raw=true)]() 
+[![](https://github.com/gojuukaze/ScreenOffTime/blob/master/pic/2.png?raw=true)]()
 
 # Support
 Android 7.0+
