@@ -7,8 +7,8 @@ android ScreenOffTime Quick settings tile（安卓息屏时间快捷设置按钮
 
 ---
 <p>
-  <a target="_blank" ><img width = "200" height = "300" src="https://github.com/gojuukaze/ScreenOffTime/blob/master/pic/1.png?raw=true"></a>
-  <a target="_blank" ><img  width = "200" height = "300" src="https://github.com/gojuukaze/ScreenOffTime/blob/master/pic/2.png?raw=true"></a>
+  <a target="_blank" ><img width = "300" height = "529" src="https://github.com/gojuukaze/ScreenOffTime/blob/master/pic/1.png?raw=true"></a>
+  <a target="_blank" ><img  width = "300" height = "529" src="https://github.com/gojuukaze/ScreenOffTime/blob/master/pic/2.png?raw=true"></a>
 </p>
 
 # Support
