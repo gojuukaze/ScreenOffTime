@@ -4,7 +4,7 @@
 [![Android version](https://img.shields.io/badge/android-7.0%2B-blue.svg)]()
   
   
-<img width = "300" height = "529" src="https://github.com/gojuukaze/ScreenOffTime/blob/master/pic/ic_launcher.png?raw=true">
+<img width = "100" height = "100" src="https://github.com/gojuukaze/ScreenOffTime/blob/master/pic/ic_launcher.png?raw=true">
   
 android ScreenOffTime Quick settings tile（安卓息屏时间快捷设置按钮）  
 
